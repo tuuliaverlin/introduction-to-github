@@ -64,6 +64,13 @@ In this course, you will:
 
 4. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
+
+## Sponsor this project
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github-sponsors)](https://github.com/tuuliaverlin/introduction-to-github/sponsor)
+
+If you find this project helpful or want to support ongoing open-source work, consider [sponsoring on GitHub](https://github.com/sponsors/tuuliaverlin).
+
 <footer>
 
 <!--
